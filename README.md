@@ -22,6 +22,12 @@ Visit our 🏠 [project page](https://github.com/BT-C/SafePTR) and 📃 [paper](
 
 <img src="./assets/framework.png">
 
+## 🎈News
+
+#### 📌 Pinned
+
+* [2025.09.29] 📃 Our SafePTR is accepted by [NeurIPS 2025]([https://neurips.cc/virtual/2024/poster/95118](https://neurips.cc/virtual/2025/loc/san-diego/poster/118476))!
+* [2025.5.30] 📃 Our paper is accesible at [arxiv]([https://arxiv.org/pdf/2405.15356](https://arxiv.org/abs/2507.01513)) now. 
 
 
 
